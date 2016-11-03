@@ -1,0 +1,9 @@
+C:\NewProjects\PLEXEDC.WEB.UI\PLEXEDC.WEB.DAL\bin\Debug\PLEXEDC.WEB.DAL.dll
+C:\NewProjects\PLEXEDC.WEB.UI\PLEXEDC.WEB.DAL\bin\Debug\PLEXEDC.WEB.DAL.pdb
+C:\NewProjects\PLEXEDC.WEB.UI\PLEXEDC.WEB.DAL\obj\Debug\PLEXEDC.WEB.DAL.dll
+C:\NewProjects\PLEXEDC.WEB.UI\PLEXEDC.WEB.DAL\obj\Debug\PLEXEDC.WEB.DAL.pdb
+C:\Users\hp\Documents\Visual Studio 2013\Projects\PLEXEDC.WEB.UI\PLEXEDC.WEB.DAL\bin\Debug\PLEXEDC.WEB.DAL.dll
+C:\Users\hp\Documents\Visual Studio 2013\Projects\PLEXEDC.WEB.UI\PLEXEDC.WEB.DAL\bin\Debug\PLEXEDC.WEB.DAL.pdb
+C:\Users\hp\Documents\Visual Studio 2013\Projects\PLEXEDC.WEB.UI\PLEXEDC.WEB.DAL\obj\Debug\PLEXEDC.WEB.DAL.csprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2013\Projects\PLEXEDC.WEB.UI\PLEXEDC.WEB.DAL\obj\Debug\PLEXEDC.WEB.DAL.dll
+C:\Users\hp\Documents\Visual Studio 2013\Projects\PLEXEDC.WEB.UI\PLEXEDC.WEB.DAL\obj\Debug\PLEXEDC.WEB.DAL.pdb
